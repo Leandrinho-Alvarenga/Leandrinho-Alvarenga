@@ -1,4 +1,4 @@
-### Olá, eu sou o Leandro de Alvarenga 💻
+### Olá, eu me chamo Leandro de Alvarenga 💻
 
  - 👨‍💻 Estudante de Engenharia de Software e apaixonado em tecnologia.<br>
 - 💡 Sempre em busca de novos desafios e oportunidades de aprendizado.<br>
